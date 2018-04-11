@@ -1,3 +1,17 @@
-h1{
-    color: red;
-}
+.heading {
+    font-weight: bold;
+    vertical-align: middle;
+    border: 2px solid orange;
+  }
+   
+  .tomato {
+    color: tomato;
+  }
+  
+  .gross-color {
+    color: #a3c010;
+  }
+  
+  .nice-color {
+    color: #03bbbb;
+  }
